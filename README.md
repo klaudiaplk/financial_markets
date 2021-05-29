@@ -1,1 +1,1 @@
-# financial_markets
+# Financial Market Project
